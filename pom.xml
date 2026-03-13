@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.aditya.micromart</groupId>
-	<artifactId>catalog-service</artifactId>
+	<artifactId>micromart-platform</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>catalog-service</name>
 	<description>MicroMart product catalog microservice</description>
